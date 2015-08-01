@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/rw-2/issues"
   },
-  "homepage": "https://github.com/AgtLucas/rw-2#readme"
+  "homepage": "https://github.com/AgtLucas/rw-2#readme",
+  "dependencies": {
+    "css-loader": "^0.15.6"
+  }
 }
